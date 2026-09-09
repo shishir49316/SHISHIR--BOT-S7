@@ -42,7 +42,7 @@ module.exports = {
       }
     }
 
-    const owner = "xalman";
+    const owner = "𝐒𝐇𝐈𝐒𝐇𝐈𝐑";
     const bodyText = `╭━━━━━━━━━━━━━━━━━━━━━━╮
 ┃    📢 𝗡𝗢𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡                      
 ╰━━━━━━━━━━━━━━━━━━━━━━╯
