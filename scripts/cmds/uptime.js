@@ -124,7 +124,7 @@ async function generateUptimeImage(data) {
   
   ctx.font = '18px "Arial"';
   ctx.fillStyle = 'rgba(255,255,255,0.6)';
-  ctx.fillText('GOAT BOT V2•PREMIUM EDITION', width - 280, 55);
+  ctx.fillText('AY-MA BOT s7•PREMIUM EDITION', width - 280, 55);
 
   ctx.fillStyle = 'rgba(0, 0, 0, 0.5)';
   ctx.shadowBlur = 5;
@@ -324,7 +324,7 @@ async function generateUptimeImage(data) {
   ctx.fillRect(0, height - 40, width, 40);
   ctx.font = '13px "Arial"';
   ctx.fillStyle = 'rgba(255,255,255,0.5)';
-  ctx.fillText('© Create by xalman | All Systems Operational', 50, height - 15);
+  ctx.fillText('© Create by shishir | All Systems Operational', 50, height - 15);
   ctx.fillText(`Generated: ${moment().format('HH:mm:ss')}`, width - 200, height - 15);
   
   ctx.globalAlpha = 0.05;
