@@ -469,7 +469,7 @@ ${mediaType}
 📦 𝗦𝗶𝘇𝗲: ${formatSize(stats.size)}
 ⏱️ 𝗧𝗶𝗺𝗲: ${elapsed}s
 
-👨‍💻 𝗗𝗲𝘃: xalman
+👨‍💻 𝗗𝗲𝘃: 𝐒𝐇𝐈𝐒𝐇𝐈𝐑 
 
 ╰─── ⋆⋅☆⋅⋆ ───╯`;
 
