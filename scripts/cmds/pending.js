@@ -29,7 +29,7 @@ module.exports = {
     const input = event.body.trim();
     const { threadID, messageID } = event;
     const prefix = global.GoatBot?.config?.prefix || "/";
-    const botNickname = global.GoatBot?.config?.nickNameBot || "GOAT BOT";
+    const botNickname = global.GoatBot?.config?.nickNameBot || "AY-MA BOT";
     let done = 0;
 
     const dateTime = moment()
@@ -95,11 +95,11 @@ module.exports = {
       }
 
       api.sendMessage(
-`╭─✨ SYSTEM GOAT ✨─╮
+`╭─✨ AY-MA BOT ✨─╮
 │ 🤖 Bot : Activated
 │ 🔗 Prefix : ${prefix}
 │ ⏰ Date/Time : ${dateTime}
-╰─✅ Access Granted─╯`,
+╰─✅👑 owner SHISHIR ─╯`,
         targetThreadID
       );
 
